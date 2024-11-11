@@ -51,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or contributions, please contact [Your Name] at [Your Email].
+For questions or contributions, please contact Jen Patrick Nataba or jenpatrickgnataba@gmail.com
