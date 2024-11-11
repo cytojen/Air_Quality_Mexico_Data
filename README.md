@@ -39,6 +39,7 @@ The data files provided are used within the notebook for preprocessing. Ensure a
 Install dependencies with:
 ```bash
 pip install pandas numpy matplotlib
+```
 
 ## Output
 
