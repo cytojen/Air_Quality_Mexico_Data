@@ -37,7 +37,7 @@ The data files provided are used within the notebook for preprocessing. Ensure a
 - Jupyter Notebook
 - Pandas
 - NumPy
-- Matplotlib (or other visualization libraries used in the notebook)
+- Matplotlib
 
 Install dependencies with:
 ```bash
