@@ -1,6 +1,6 @@
 # ATM & MET Traffic Data Analysis for MER and UIZ Stations
 
-This repository contains data files and a Jupyter Notebook for analyzing ATM (Air Traffic Management) and MET (Meteorological) data, specifically focusing on the "MER" and "UIZ" stations. This analysis involves preprocessing and examining traffic and meteorological parameters to derive insights into traffic patterns, environmental impact, and operational conditions for each station.
+This repository contains data files and a Jupyter Notebook for analyzing ATM (Air Traffic Management) and MET (Meteorological) data, specifically focusing on the "MER" and "UIZ" stations.
 
 ## Project Structure
 
