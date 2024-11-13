@@ -7,12 +7,13 @@ This repository contains data files and a Jupyter Notebook for analyzing ATM (Ai
 - **Data Files**:
   - `raw_ATM+MET_MER.csv`: Raw ATM and MET data for the MER station.
   - `raw_ATM+MET_UIZ.csv`: Raw ATM and MET data for the UIZ station.
+  - `raw_traffic_MER.csv`: Raw traffic data for the MER station.
+  - `raw_traffic_UIZ.csv`: Raw traffic data for the UIZ station.
   - `atm_met_uiz.csv`: Processed ATM/MET data specific to the UIZ station.
   - `atm_met_mer.csv`: Processed ATM/MET data specific to the MER station.
   - `traffic_uiz.csv`: Processed ATM/MET data specific to the MER station.
   - `traffic_mer.csv`: Processed ATM/MET data specific to the MER station.
-  - `raw_traffic_MER.csv`: Raw traffic data for the MER station.
-  - `raw_traffic_UIZ.csv`: Raw traffic data for the MER station.
+
 
 - **Notebook**:
   - `MER_UIZ_ATM_MER_TRAFFIC_DATA.ipynb`: A Jupyter Notebook containing the data processing and analysis steps applied to the ATM, MET, and traffic data for both the MER and UIZ stations.
